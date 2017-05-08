@@ -1,3 +1,8 @@
 aaaaaa
 bbbbbb
 cccccc
+
+masterに追加
+
+fix2に追加した
+
