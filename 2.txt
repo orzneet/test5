@@ -2,4 +2,9 @@ aaaaaa
 bbbbbb
 cccccc
 
-fixƒuƒ‰ƒ“ƒ`‚É•ÏX
+=======
+masterã«è¿½åŠ 
+
+fix2ã«è¿½åŠ ã—ãŸ
+
+>>>>>>> fix2
